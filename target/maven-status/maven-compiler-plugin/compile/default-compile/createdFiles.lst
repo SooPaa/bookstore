@@ -1,0 +1,7 @@
+com\panda\bookstore\resource\v1\BookResource.class
+com\panda\bookstore\resource\v2\BookResource.class
+com\panda\bookstore\dto\Book.class
+com\panda\bookstore\until\DBUtil.class
+com\panda\bookstore\dao\BookDAO.class
+com\panda\bookstore\config\BookApplication.class
+com\panda\bookstore\resource\v3\BookResource.class
